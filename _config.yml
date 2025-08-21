@@ -4,7 +4,7 @@ email: nycarid@gmail.com
 url: https://NycariDProfolio.github.io/Cyber_Attack
 description: "Portfolio of cybersecurity work samples for a junior-level cyber security professional."
 keywords: "cybersecurity, cyber, security, portfolio, tech"
-skills: "Cybersecurity - Analyst - Ethical Hacker"
+skills: "Cybersecurity - GRC Analysis - Windows Admin"
 meta_author: Nycari Douglas
 
 # Google webmaster tools
@@ -28,7 +28,7 @@ color:
   primary:  #80B3FF
   primary-rgb: "209,73,91"  # "128,179,255"
   secondary: f1f7ed #FD6E8A
-  secondary-dark: 191923 #000000
+  secondary-dark: 001846 #000000
 
 
 # Footer settings
